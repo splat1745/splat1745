@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student exploring v
 
 ## 🚀 About Me
 
-I'm a Computer Science and Engineering student with a keen interest in software development, game development, and systems programming. I enjoy building projects that challenge me to learn new concepts and apply them in creative ways.
+I'm a Computer Engineering student with a keen interest in software development, game development, and systems programming. I enjoy building projects that challenge me to learn new concepts and apply them in creative ways.
 
 ## 💻 Skills & Technologies
 
