@@ -42,8 +42,6 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 - **[KSP-Game](https://github.com/relfayoumi/KSP-Game)** - An ASCII-inspired, immersive space colony simulation built with TypeScript.
 - **[RPG-Improvement-game](https://github.com/relfayoumi/RPG-Improvement-game)** - A web-based RPG featuring character progression and turn-based battle systems.
 
-
-
 ### 🌐 Web & SDLC
 - **[SDLC-website-project](https://github.com/relfayoumi/SDLC-website-project)** - A comprehensive educational resource detailing the Software Development Life Cycle.
 - **[SDLC-Project](https://github.com/relfayoumi/SDLC-Project)** - A client-focused web development initiative demonstrating full-cycle project methodology.
@@ -78,7 +76,7 @@ I am always open to discussing innovative projects, collaboration opportunities,
 ### Let's Connect!
 
 [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@8__r9yan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/8_r9yan)
+[![Instagram](https://img.shields.io/badge/Instagram-8__r9yan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/8_r9yan)
 [![GitHub](https://img.shields.io/badge/GitHub-relfayoumi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/relfayoumi)
 
 </div>
