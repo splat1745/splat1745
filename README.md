@@ -16,6 +16,18 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 
 ## 💻 Technical Arsenal
 
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
 **Core Languages:**
 - **C / C++** (Systems Programming, Algorithms, Embedded Systems)
 - **Python** (AI/ML, Automation, Data Analysis)
@@ -60,10 +72,23 @@ I maintain a comprehensive collection of repositories focused on mastering C pro
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=relfayoumi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relfayoumi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=relfayoumi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=relfayoumi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relfayoumi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=relfayoumi&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=relfayoumi&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
