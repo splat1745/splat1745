@@ -84,11 +84,9 @@ I maintain a comprehensive collection of repositories focused on mastering C pro
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=relfayoumi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=relfayoumi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=relfayoumi&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=relfayoumi&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=relfayoumi&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" width="100%" />
 
 </div>
 
