@@ -1,6 +1,6 @@
 # Hi there, I'm Rayan 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and student exploring various programming languages and technologies through hands-on projects.
+Welcome to my profile! I'm a passionate developer and student exploring various programming languages and technologies through hands-on projects.
 
 ## 🚀 About Me
 
