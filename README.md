@@ -43,6 +43,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ## 📂 Featured Projects
 
 ### 🆕 Recent & Active Projects
+- **[Zeyta](https://github.com/relfayoumi/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts. *(November 2025)*
 - **[Tic-Tac-Toe-Project](https://github.com/relfayoumi/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic. *(November 2025)*
 - **[Uncertainty-Calculator](https://github.com/relfayoumi/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python. *(November 2025)*
 - **[TBWC-Arduino-Systems-Code](https://github.com/relfayoumi/TBWC-Arduino-Systems-Code)** - C++ systems code designed for Arduino hardware integration. *(November 2025)*
