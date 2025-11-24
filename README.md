@@ -1,4 +1,4 @@
-# Hi there, I'm Relfayoumi👋
+# Hi there, I'm Splat👋
 
 <div align="center">
 
