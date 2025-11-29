@@ -73,19 +73,12 @@ I maintain a comprehensive collection of repositories focused on mastering C pro
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splat1745&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" width="100%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=splat1745&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae)
 
 </div>
 
