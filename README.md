@@ -77,7 +77,7 @@ I maintain a comprehensive collection of repositories focused on mastering C pro
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splat1745&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
