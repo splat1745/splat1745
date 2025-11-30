@@ -44,12 +44,14 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 
 ### 🆕 Recent & Active Projects
 - **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts. *(November 2025)*
-- **[Tic-Tac-Toe-Project](https://github.com/splat1745/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic. *(November 2025)*
-- **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python. *(November 2025)*
-- **[TBWC-Arduino-Systems-Code](https://github.com/splat1745/TBWC-Arduino-Systems-Code)** - C++ systems code designed for Arduino hardware integration. *(November 2025)*
+- **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation. *(November 2025)*
 
 ### 🧠 Artificial Intelligence & Logic
 - **[LumiBot-chess](https://github.com/splat1745/LumiBot-chess)** - A high-performance Chess bot with computer vision capabilities powered by OpenCV and C++.
+- **[Tic-Tac-Toe-Project](https://github.com/splat1745/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic.
+
+### 🔬 Utilities & Data Tools
+- **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python.
 
 ### 🎮 Interactive Media & Game Development
 - **[KSP-Game](https://github.com/splat1745/KSP-Game)** - An ASCII-inspired, immersive space colony simulation built with TypeScript.
@@ -59,16 +61,23 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 - **[SDLC-website-project](https://github.com/splat1745/SDLC-website-project)** - A comprehensive educational resource detailing the Software Development Life Cycle.
 - **[SDLC-Project](https://github.com/splat1745/SDLC-Project)** - A client-focused web development initiative demonstrating full-cycle project methodology.
 
+### ⚙️ Embedded Systems & Hardware
+- **[TBWC-Arduino-Systems-Code](https://github.com/splat1745/TBWC-Arduino-Systems-Code)** - C++ systems code designed for Arduino hardware integration.
+
 ### 🔧 Algorithms & C Programming Fundamentals
-I maintain a comprehensive collection of repositories focused on mastering C programming nuances:
-- **[Using-Makefile-in-C](https://github.com/splat1745/Using-Makefile-in-C)** - Build automation and project management.
-- **[Debugging-in-C](https://github.com/splat1745/Debugging-in-C)** - Techniques for memory management and error resolution.
-- **[Base-Arithmetic-and-Conversion](https://github.com/splat1745/Base-Arithmetic-and-Conversion)** - Low-level number system operations.
-- **[Basic-Base-Conversions-in-C](https://github.com/splat1745/Basic-Base-Conversions-in-C)** - Foundational base conversion implementations.
-- **[Introductory-C-Programming-Exercises](https://github.com/splat1745/Introductory-C-Programming-Exercises)** - Comprehensive collection of C programming exercises.
-- **[Using-printf-in-C](https://github.com/splat1745/Using-printf-in-C)** - Advanced printf formatting demonstrations.
-- **[Basic-C-functions](https://github.com/splat1745/Basic-C-functions)** - Fundamental C function implementations.
-- **[Counting-in-c](https://github.com/splat1745/Counting-in-c)** - Counting algorithms and techniques.
+
+A comprehensive collection of repositories focused on mastering C programming nuances:
+
+| Repository | Description |
+|------------|-------------|
+| [Using-Makefile-in-C](https://github.com/splat1745/Using-Makefile-in-C) | Build automation and project management |
+| [Debugging-in-C](https://github.com/splat1745/Debugging-in-C) | Techniques for memory management and error resolution |
+| [Base-Arithmetic-and-Conversion](https://github.com/splat1745/Base-Arithmetic-and-Conversion) | Low-level number system operations |
+| [Basic-Base-Conversions-in-C](https://github.com/splat1745/Basic-Base-Conversions-in-C) | Foundational base conversion implementations |
+| [Introductory-C-Programming-Exercises](https://github.com/splat1745/Introductory-C-Programming-Exercises) | Comprehensive collection of C programming exercises |
+| [Using-printf-in-C](https://github.com/splat1745/Using-printf-in-C) | Advanced printf formatting demonstrations |
+| [Basic-C-functions](https://github.com/splat1745/Basic-C-functions) | Fundamental C function implementations |
+| [Counting-in-c](https://github.com/splat1745/Counting-in-c) | Counting algorithms and techniques |
 
 ## 📊 GitHub Statistics
 
