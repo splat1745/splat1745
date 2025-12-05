@@ -54,7 +54,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 
 ### 🎮 Interactive Media & Game Development
 - **[KSP-Game](https://github.com/splat1745/KSP-Game)** - An ASCII-inspired, immersive space colony simulation built with TypeScript.
-- **[RPG-Improvement-game](https://github.com/splat1745/RPG-Improvement-game)** - A web-based RPG featuring character progression and turn-based battle systems.
+- **[RPG-Improvement-game](https://github.com/splat1745/RPG-Improvement-game)** - A web-based RPG featuring character progression and self progress.
 
 ### 🌐 Web & SDLC
 - **[SDLC-website-project](https://github.com/splat1745/SDLC-website-project)** - A comprehensive educational resource detailing the Software Development Life Cycle.
