@@ -106,7 +106,6 @@ I am always open to discussing innovative projects, collaboration opportunities,
 ### Let's Connect!
 
 [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-8__r9yan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/8_r9yan)
 [![GitHub](https://img.shields.io/badge/GitHub-splat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/splat1745)
 
 </div>
