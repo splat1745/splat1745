@@ -51,6 +51,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 
 ### 🔬 Utilities & Data Tools
 - **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python.
+- **[VsionLab](https://github.com/splat1745/VsionLab)** - A fully locally hosted image annotation tool for making/training your own object detection models.
 
 ### 🎮 Interactive Media & Game Development
 - **[KSP-Game](https://github.com/splat1745/KSP-Game)** - An ASCII-inspired, immersive space colony simulation built with TypeScript.
