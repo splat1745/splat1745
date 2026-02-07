@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub followers](https://img.shields.io/github/followers/splat1745?style=for-the-badge&logo=github)](https://github.com/splat1745)
+[//] [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[//] [![GitHub followers](https://img.shields.io/github/followers/splat1745?style=for-the-badge&logo=github)](https://github.com/splat1745)
 
 </div>
 
@@ -45,12 +45,13 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ## 📂 Featured Projects
 
 ### 🆕 Recent & Active Projects
-- **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts. *(November 2025)*
-- **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation. *(November 2025)*
+- **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 68x inference speedup!
 
 ### 🧠 Artificial Intelligence & Logic
 - **[LumiBot-chess](https://github.com/splat1745/LumiBot-chess)** - A high-performance Chess bot with computer vision capabilities powered by OpenCV and C++.
 - **[Tic-Tac-Toe-Project](https://github.com/splat1745/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic.
+- **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts. *(November 2025)*
+- **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation. *(November 2025)*
 
 ### 🔬 Utilities & Data Tools
 - **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python.
