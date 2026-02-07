@@ -2,7 +2,7 @@
 
 <div align="center">
 
-//: [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) [![GitHub followers](https://img.shields.io/github/followers/splat1745?style=for-the-badge&logo=github)](https://github.com/splat1745)
+[//]: # [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) [![GitHub followers](https://img.shields.io/github/followers/splat1745?style=for-the-badge&logo=github)](https://github.com/splat1745)
 
 </div>
 
