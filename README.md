@@ -68,21 +68,6 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ### ⚙️ Embedded Systems & Hardware
 - **[TBWC-Arduino-Systems-Code](https://github.com/splat1745/TBWC-Arduino-Systems-Code)** - C++ systems code designed for Arduino hardware integration.
 
-### 🔧 Algorithms & C Programming Fundamentals
-
-A comprehensive collection of repositories focused on mastering C programming nuances:
-
-| Repository | Description |
-|------------|-------------|
-| [Using-Makefile-in-C](https://github.com/splat1745/Using-Makefile-in-C) | Build automation and project management |
-| [Debugging-in-C](https://github.com/splat1745/Debugging-in-C) | Techniques for memory management and error resolution |
-| [Base-Arithmetic-and-Conversion](https://github.com/splat1745/Base-Arithmetic-and-Conversion) | Low-level number system operations |
-| [Basic-Base-Conversions-in-C](https://github.com/splat1745/Basic-Base-Conversions-in-C) | Foundational base conversion implementations |
-| [Introductory-C-Programming-Exercises](https://github.com/splat1745/Introductory-C-Programming-Exercises) | Comprehensive collection of C programming exercises |
-| [Using-printf-in-C](https://github.com/splat1745/Using-printf-in-C) | Advanced printf formatting demonstrations |
-| [Basic-C-functions](https://github.com/splat1745/Basic-C-functions) | Fundamental C function implementations |
-| [Counting-in-c](https://github.com/splat1745/Counting-in-c) | Counting algorithms and techniques |
-
 ## 📊 GitHub Statistics
 
 <div align="center">
