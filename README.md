@@ -50,8 +50,8 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ### 🧠 Artificial Intelligence & Logic
 - **[LumiBot-chess](https://github.com/splat1745/LumiBot-chess)** - A high-performance Chess bot with computer vision capabilities powered by OpenCV and C++.
 - **[Tic-Tac-Toe-Project](https://github.com/splat1745/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic.
-- **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts. *(November 2025)*
-- **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation. *(November 2025)*
+- **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts.
+- **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation.
 
 ### 🔬 Utilities & Data Tools
 - **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python.
