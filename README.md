@@ -27,14 +27,14 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ![Java](https://img.shields.io/badge/Java-ED1D24?style=for-the-badge&logo=java&logoColor=white)
 
 
-
 </div>
 
 **Core Languages:**
 - **C / C++** (Systems Programming, Algorithms, Embedded Systems)
 - **Python** (AI/ML, Automation, Data Analysis)
-- **TypeScript / JavaScript** (Full Stack Web, Game Development)
+- **TypeScript / JavaScript** (Full Stack Web, Web Game Development)
 - **HTML / CSS** (Frontend Architecture)
+- **Luau** (Roblox Game deveopment)
 
 **Domains:**
 - Artificial Intelligence & Logic
