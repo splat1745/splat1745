@@ -7,7 +7,7 @@
 
 </div>
 
-Welcome to my profile. I am a dedicated Computer Engineering student and software developer driven by a passion for systems architecture, artificial intelligence, and interactive media. My work focuses on building robust applications, exploring algorithmic complexity, and mastering low-level programming.
+Welcome to my profile. I am a dedicated Computer Engineering student, AI researcher, and software developer driven by a passion for systems architecture, artificial intelligence, and interactive media. My work focuses on building robust applications, exploring algorithmic complexity, designing AI architectures, and mastering low-level programming.
 
 ## 🚀 Professional Profile
 
