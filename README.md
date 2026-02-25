@@ -82,7 +82,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
     </td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&days=60" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&days=45" alt="Contribution Graph" width="100%" />
 
 </div>
 
