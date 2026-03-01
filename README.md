@@ -9,7 +9,7 @@
 
 Welcome to my profile. I am a dedicated Computer Engineering student, AI researcher, and software developer driven by a passion for systems architecture, artificial intelligence, and interactive media. My work focuses on building robust applications, exploring algorithmic complexity, designing AI architectures, and mastering low-level programming.
  
-## 🚀 Professional Profile
+## Profile
 
 I specialize in bridging the gap between theoretical concepts and practical, high-performance solutions. With a strong foundation in C/C++ and Python, I enjoy tackling complex problems in game development, systems programming, and data analysis.
 
@@ -96,6 +96,7 @@ I am always open to discussing innovative projects, collaboration opportunities,
 
 [![Discord](https://img.shields.io/badge/Discord-peanut__08-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-splat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/splat1745)
+[![Gmail](https://img.shields.io/badge/Gmail-rayanelfayoumi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayanelfayoumi@gmail.com)
 
 </div>
 
