@@ -45,7 +45,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ## 📂 Featured Projects
 
 ### 🆕 Recent & Active Projects
-- **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 68x inference speedup!
+- **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 78x inference speedup!
 
 ### 🧠 Artificial Intelligence & Logic
 - **[LumiBot-chess](https://github.com/splat1745/LumiBot-chess)** - A high-performance Chess bot with computer vision capabilities powered by OpenCV and C++.
