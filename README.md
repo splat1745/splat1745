@@ -63,13 +63,6 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 - **[KSP-Game](https://github.com/splat1745/KSP-Game)** - An ASCII-inspired, immersive space colony simulation built with TypeScript.
 - **[RPG-Improvement-game](https://github.com/splat1745/RPG-Improvement-game)** - A web-based RPG featuring character progression and self progress.
 
-### 🌐 Web & SDLC
-- **[SDLC-website-project](https://github.com/splat1745/SDLC-website-project)** - A comprehensive educational resource detailing the Software Development Life Cycle.
-- **[SDLC-Project](https://github.com/splat1745/SDLC-Project)** - A client-focused web development initiative demonstrating full-cycle project methodology.
-
-### ⚙️ Embedded Systems & Hardware
-- **[TBWC-Arduino-Systems-Code](https://github.com/splat1745/TBWC-Arduino-Systems-Code)** - C++ systems code designed for Arduino hardware integration.
-
 ## 📊 GitHub Statistics
 
 <div align="center">
