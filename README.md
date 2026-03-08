@@ -47,13 +47,13 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ### 🆕 Recent & Active Projects
 - **[Jarvis](https://github.com/splat1745/Jarvis)** - A built in autonomous locally hosted agent that acts and performs actions like Jarvis!
 - **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 78x inference speedup!
-- **[RLM-Ollama](https://github.com/zitacron/RLM-Ollama)** - A workaround that gives AI models a "never-ending" memory, allowing them to handle massive tasks without getting confused or losing track.
+
 
 ### 🧠 Artificial Intelligence & Logic
 - **[LumiBot-chess](https://github.com/splat1745/LumiBot-chess)** - A high-performance Chess bot with computer vision capabilities powered by OpenCV and C++.
-- **[Tic-Tac-Toe-Project](https://github.com/splat1745/Tic-Tac-Toe-Project)** - A C-based implementation featuring robust Player-vs-Computer modes with enhanced AI logic.
 - **[Zeyta](https://github.com/splat1745/Zeyta)** - An AI playground interface built with Python for experimenting with artificial intelligence concepts.
 - **[RL-agent](https://github.com/splat1745/RL-agent)** - A reinforcement learning agent implementation for AI experimentation.
+- **[RLM-Ollama](https://github.com/zitacron/RLM-Ollama)** - A workaround that gives AI models a "never-ending" memory, allowing them to handle massive tasks without getting confused or losing track.
 
 ### 🔬 Utilities & Data Tools
 - **[Uncertainty-Calculator](https://github.com/splat1745/Uncertainty-Calculator)** - A precision tool for calculating measurement uncertainty based on equations or raw data values using Python.
