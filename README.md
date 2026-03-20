@@ -66,19 +66,12 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splat1745&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="195" />
   
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=splat1745&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splat1745&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&days=45" alt="Contribution Graph" width="100%" />
-
+  <br/>
+  <p></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=splat1745&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&days=45" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 📫 Connect With Me
