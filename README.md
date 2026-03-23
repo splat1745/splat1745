@@ -39,7 +39,6 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 **Domains:**
 - Artificial Intelligence & Logic
 - Embedded Systems & Hardware Integration
-- Software Development Life Cycle (SDLC)
 - Interactive Simulation & Game Engine Design
 
 ## 📂 Featured Projects
