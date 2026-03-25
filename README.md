@@ -45,7 +45,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 
 ### 🆕 Recent & Active Projects
 - **[Jarvis](https://github.com/splat1745/Jarvis)** - A built in autonomous locally hosted agent that acts and performs actions like Jarvis!
-- **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 78x inference speedup!
+- **[Cron-Root-Attention](https://github.com/zitacron/cron-root-attention)** - An Attention mechanisim for LLMs that optimizes the way they see tokens; up to 68x inference speedup!
 
 
 ### 🧠 Artificial Intelligence & Logic
