@@ -30,7 +30,7 @@ I specialize in bridging the gap between theoretical concepts and practical, hig
 </div>
 
 **Core Languages:**
-- **C / C++** (Systems Programming, Algorithms, Embedded Systems)
+- **C / C++** (Algorithms, Embedded Systems, Hardware Emulation optimizations)
 - **Python** (AI/ML, Automation, Data Analysis)
 - **TypeScript / JavaScript** (Full Stack Web, Web Game Development)
 - **HTML / CSS** (Frontend Architecture)
