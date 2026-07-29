@@ -1,5 +1,7 @@
 # Hey, I'm Splat 👋
 
+> **One B2B review slot:** Zitacron Inc. will AI-assist a same-day review of one public AI/ML file (up to 300 lines), with up to three actionable findings, for **CA$5**. [Terms and checkout](https://buy.stripe.com/4gM3cu5WPac12jugwFbEA00).
+
 <div align="center">
 
 **Biological engineering student · Software developer**
